@@ -1,0 +1,2422 @@
+[
+  {
+    "question": "Who is the first elected prime minister of nepal?",
+    "options": [
+      "Jung Bahadur Rana",
+      "Kp Oli",
+      "Sushil Koirala",
+      "BP Koirala"
+    ],
+    "answer": "BP Koirala"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Alexander Graham Bell",
+      "Alexander Fleming",
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "Who is the first elected prime minister of Nepal?",
+    "options": [
+      "Jung Bahadur Rana",
+      "Kp Oli",
+      "Sushil Koirala",
+      "BP Koirala"
+    ],
+    "answer": "BP Koirala"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": [
+      "Gold",
+      "Oxygen",
+      "Osmium",
+      "Oganesson"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "options": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "answer": "1945"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Platinum"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      "China",
+      "South Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "question": "How many continents are there?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": [
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Polar Bear"
+    ],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": [
+      "Yuan",
+      "Won",
+      "Yen",
+      "Ringgit"
+    ],
+    "answer": "Yen"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": [
+      "Isaac Newton",
+      "Niels Bohr",
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Which planet is known for its rings?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": [
+      "Tomato",
+      "Avocado",
+      "Cucumber",
+      "Pepper"
+    ],
+    "answer": "Avocado"
+  },
+  {
+    "question": "How many bones are in the human body?",
+    "options": [
+      "196",
+      "206",
+      "216",
+      "226"
+    ],
+    "answer": "206"
+  },
+  {
+    "question": "Which language is spoken in Brazil?",
+    "options": [
+      "Spanish",
+      "Portuguese",
+      "French",
+      "English"
+    ],
+    "answer": "Portuguese"
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "options": [
+      "Lion",
+      "Cheetah",
+      "Horse",
+      "Antelope"
+    ],
+    "answer": "Cheetah"
+  },
+  {
+    "question": "Who was the first person to walk on the moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": [
+      "Sahara Desert",
+      "Arabian Desert",
+      "Gobi Desert",
+      "Antarctic Desert"
+    ],
+    "answer": "Antarctic Desert"
+  },
+  {
+    "question": "Which organ pumps blood throughout the body?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Lungs",
+      "Brain"
+    ],
+    "answer": "Heart"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Go",
+      "Gd",
+      "Au",
+      "Ag"
+    ],
+    "answer": "Au"
+  },
+  {
+    "question": "In which country would you find the Great Pyramid of Giza?",
+    "options": [
+      "Iraq",
+      "Egypt",
+      "Mexico",
+      "Greece"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "question": "How many players are in a soccer team?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "options": [
+      "K2",
+      "Mount Everest",
+      "Kangchenjunga",
+      "Makalu"
+    ],
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": [
+      "Tiger",
+      "Elephant",
+      "Lion",
+      "Gorilla"
+    ],
+    "answer": "Lion"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "question": "Who wrote 'Harry Potter'?",
+    "options": [
+      "J.R.R. Tolkien",
+      "J.K. Rowling",
+      "Stephen King",
+      "George R.R. Martin"
+    ],
+    "answer": "J.K. Rowling"
+  },
+  {
+    "question": "What is the largest type of big cat?",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Jaguar",
+      "Leopard"
+    ],
+    "answer": "Tiger"
+  },
+  {
+    "question": "Which country has the most population?",
+    "options": [
+      "India",
+      "United States",
+      "China",
+      "Indonesia"
+    ],
+    "answer": "China"
+  },
+  {
+    "question": "What is the main gas found in the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "Which instrument measures atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "answer": "Barometer"
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Pluto"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "options": [
+      "Euro",
+      "Dollar",
+      "Pound",
+      "Frank"
+    ],
+    "answer": "Pound"
+  },
+  {
+    "question": "Which animal can change its color?",
+    "options": [
+      "Frog",
+      "Chameleon",
+      "Octopus",
+      "Butterfly"
+    ],
+    "answer": "Chameleon"
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "options": [
+      "Eagle",
+      "Albatross",
+      "Ostrich",
+      "Emu"
+    ],
+    "answer": "Ostrich"
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which country is famous for the Taj Mahal?",
+    "options": [
+      "Pakistan",
+      "Bangladesh",
+      "India",
+      "Sri Lanka"
+    ],
+    "answer": "India"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "options": [
+      "90°C",
+      "100°C",
+      "110°C",
+      "120°C"
+    ],
+    "answer": "100°C"
+  },
+  {
+    "question": "Who is known as the Father of Computers?",
+    "options": [
+      "Alan Turing",
+      "Charles Babbage",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "answer": "Nile River"
+  },
+  {
+    "question": "What is the most abundant metal in the Earth's crust?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Aluminum",
+      "Gold"
+    ],
+    "answer": "Aluminum"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Rome"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "How many time zones does Russia have?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Which fruit is known as the 'king of fruits'?",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Orange"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Skin",
+      "Lungs"
+    ],
+    "answer": "Skin"
+  },
+  {
+    "question": "Which country is known as the Land of the Midnight Sun?",
+    "options": [
+      "Sweden",
+      "Norway",
+      "Finland",
+      "Iceland"
+    ],
+    "answer": "Norway"
+  },
+  {
+    "question": "How many elements are in the periodic table?",
+    "options": [
+      "112",
+      "118",
+      "120",
+      "126"
+    ],
+    "answer": "118"
+  },
+  {
+    "question": "What is the speed of light?",
+    "options": [
+      "299,792 km/s",
+      "300,000 km/s",
+      "299,792 m/s",
+      "300,000 m/s"
+    ],
+    "answer": "300000 km/s"
+  },
+  {
+    "question": "Which animal sleeps standing up?",
+    "options": [
+      "Horse",
+      "Cow",
+      "Elephant",
+      "Giraffe"
+    ],
+    "answer": "Horse"
+  },
+  {
+    "question": "What is the most spoken language in the world?",
+    "options": [
+      "English",
+      "Spanish",
+      "Mandarin Chinese",
+      "Hindi"
+    ],
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "question": "Which year did the Titanic sink?",
+    "options": [
+      "1905",
+      "1912",
+      "1915",
+      "1920"
+    ],
+    "answer": "1912"
+  },
+  {
+    "question": "What is the main component of the Sun?",
+    "options": [
+      "Helium",
+      "Oxygen",
+      "Hydrogen",
+      "Carbon"
+    ],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "How many stripes are on the American flag?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "Which planet is known as the Evening Star?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "question": "What is the largest lake in the world?",
+    "options": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Caspian Sea",
+      "Lake Baikal"
+    ],
+    "answer": "Caspian Sea"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Which is the coldest continent?",
+    "options": [
+      "Europe",
+      "North America",
+      "Antarctica",
+      "Asia"
+    ],
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What is the national animal of Australia?",
+    "options": [
+      "Kangaroo",
+      "Koala",
+      "Emu",
+      "Platypus"
+    ],
+    "answer": "Kangaroo"
+  },
+  {
+    "question": "How many teeth does an adult human have?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "answer": "32"
+  },
+  {
+    "question": "Which country is the largest by area?",
+    "options": [
+      "China",
+      "United States",
+      "Canada",
+      "Russia"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "options": [
+      "Alexandria",
+      "Cairo",
+      "Giza",
+      "Luxor"
+    ],
+    "answer": "Cairo"
+  },
+  {
+    "question": "Which gas is responsible for the greenhouse effect?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Helium"
+    ],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "How many chromosomes do humans have?",
+    "options": [
+      "44",
+      "46",
+      "48",
+      "50"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "What is the most common blood type?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "answer": "O"
+  },
+  {
+    "question": "Which planet is the hottest?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "question": "Who painted the Starry Night?",
+    "options": [
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Salvador Dali"
+    ],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "question": "What is the largest bone in the human body?",
+    "options": [
+      "Spine",
+      "Femur",
+      "Tibia",
+      "Humerus"
+    ],
+    "answer": "Femur"
+  },
+  {
+    "question": "Which country invented pizza?",
+    "options": [
+      "United States",
+      "France",
+      "Italy",
+      "Greece"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "question": "How many keys are on a standard piano?",
+    "options": [
+      "84",
+      "86",
+      "88",
+      "90"
+    ],
+    "answer": "88"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Munich",
+      "Berlin",
+      "Hamburg",
+      "Frankfurt"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "Which animal has the longest lifespan?",
+    "options": [
+      "Elephant",
+      "Blue Whale",
+      "Galapagos Tortoise",
+      "Bowhead Whale"
+    ],
+    "answer": "Bowhead Whale"
+  },
+  {
+    "question": "What is the most consumed beverage in the world?",
+    "options": [
+      "Coffee",
+      "Tea",
+      "Beer",
+      "Water"
+    ],
+    "answer": "Water"
+  },
+  {
+    "question": "How many planets are in our solar system?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Which country has the most islands?",
+    "options": [
+      "Philippines",
+      "Indonesia",
+      "Sweden",
+      "Canada"
+    ],
+    "answer": "Sweden"
+  },
+  {
+    "question": "What is the fastest bird?",
+    "options": [
+      "Eagle",
+      "Falcon",
+      "Swift",
+      "Ostrich"
+    ],
+    "answer": "Falcon"
+  },
+  {
+    "question": "Who wrote 'The Odyssey'?",
+    "options": [
+      "Plato",
+      "Aristotle",
+      "Homer",
+      "Socrates"
+    ],
+    "answer": "Homer"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "options": [
+      "Mount Vesuvius",
+      "Mauna Loa",
+      "Mount Etna",
+      "Mount Fuji"
+    ],
+    "answer": "Mauna Loa"
+  },
+  {
+    "question": "Which animal is known to laugh?",
+    "options": [
+      "Monkey",
+      "Dolphin",
+      "Hyena",
+      "Parrot"
+    ],
+    "answer": "Hyena"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "options": [
+      "Brasilia",
+      "Lima",
+      "Buenos Aires",
+      "Santiago"
+    ],
+    "answer": "Buenos Aires"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Which country is the smallest by area?",
+    "options": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "What is the most common element in the universe?",
+    "options": [
+      "Helium",
+      "Oxygen",
+      "Hydrogen",
+      "Carbon"
+    ],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "How many strings does a violin have?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Which planet has the Great Red Spot?",
+    "options": [
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "options": [
+      "Johannesburg",
+      "Cape Town",
+      "Pretoria",
+      "Durban"
+    ],
+    "answer": "Pretoria"
+  },
+  {
+    "question": "Which animal is the national symbol of the United States?",
+    "options": [
+      "Eagle",
+      "Bear",
+      "Bison",
+      "Lion"
+    ],
+    "answer": "Eagle"
+  },
+  {
+    "question": "How many stars are on the Chinese flag?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is the most populated city in the world?",
+    "options": [
+      "Delhi",
+      "Shanghai",
+      "Tokyo",
+      "Beijing"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Which country is known as the Emerald Isle?",
+    "options": [
+      "Scotland",
+      "Wales",
+      "Ireland",
+      "Iceland"
+    ],
+    "answer": "Ireland"
+  },
+  {
+    "question": "What is the hardest rock?",
+    "options": [
+      "Granite",
+      "Diamond",
+      "Quartz",
+      "Basalt"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "question": "How many moons does Earth have?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Which fruit has its seeds on the outside?",
+    "options": [
+      "Apple",
+      "Orange",
+      "Strawberry",
+      "Banana"
+    ],
+    "answer": "Strawberry"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasilia",
+      "Salvador"
+    ],
+    "answer": "Brasilia"
+  },
+  {
+    "question": "Which animal can't jump?",
+    "options": [
+      "Elephant",
+      "Rhino",
+      "Hippo",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Alexander Graham Bell",
+      "Alexander Fleming",
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "Who is the first elected prime minister of Nepal?",
+    "options": [
+      "Jung Bahadur Rana",
+      "Kp Oli",
+      "Sushil Koirala",
+      "BP Koirala"
+    ],
+    "answer": "BP Koirala"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": [
+      "Gold",
+      "Oxygen",
+      "Osmium",
+      "Oganesson"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "options": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "answer": "1945"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Platinum"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      "China",
+      "South Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "question": "How many continents are there?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": [
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Polar Bear"
+    ],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": [
+      "Yuan",
+      "Won",
+      "Yen",
+      "Ringgit"
+    ],
+    "answer": "Yen"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": [
+      "Isaac Newton",
+      "Niels Bohr",
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Which planet is known for its rings?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": [
+      "Tomato",
+      "Avocado",
+      "Cucumber",
+      "Pepper"
+    ],
+    "answer": "Avocado"
+  },
+  {
+    "question": "How many bones are in the human body?",
+    "options": [
+      "196",
+      "206",
+      "216",
+      "226"
+    ],
+    "answer": "206"
+  },
+  {
+    "question": "Which language is spoken in Brazil?",
+    "options": [
+      "Spanish",
+      "Portuguese",
+      "French",
+      "English"
+    ],
+    "answer": "Portuguese"
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "options": [
+      "Lion",
+      "Cheetah",
+      "Horse",
+      "Antelope"
+    ],
+    "answer": "Cheetah"
+  },
+  {
+    "question": "Who was the first person to walk on the moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": [
+      "Sahara Desert",
+      "Arabian Desert",
+      "Gobi Desert",
+      "Antarctic Desert"
+    ],
+    "answer": "Antarctic Desert"
+  },
+  {
+    "question": "Which organ pumps blood throughout the body?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Lungs",
+      "Brain"
+    ],
+    "answer": "Heart"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Go",
+      "Gd",
+      "Au",
+      "Ag"
+    ],
+    "answer": "Au"
+  },
+  {
+    "question": "In which country would you find the Great Pyramid of Giza?",
+    "options": [
+      "Iraq",
+      "Egypt",
+      "Mexico",
+      "Greece"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "question": "How many players are in a soccer team?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "options": [
+      "K2",
+      "Mount Everest",
+      "Kangchenjunga",
+      "Makalu"
+    ],
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "options": [
+      "Tiger",
+      "Elephant",
+      "Lion",
+      "Gorilla"
+    ],
+    "answer": "Lion"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "question": "Who wrote 'Harry Potter'?",
+    "options": [
+      "J.R.R. Tolkien",
+      "J.K. Rowling",
+      "Stephen King",
+      "George R.R. Martin"
+    ],
+    "answer": "J.K. Rowling"
+  },
+  {
+    "question": "What is the largest type of big cat?",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Jaguar",
+      "Leopard"
+    ],
+    "answer": "Tiger"
+  },
+  {
+    "question": "Which country has the most population?",
+    "options": [
+      "India",
+      "United States",
+      "China",
+      "Indonesia"
+    ],
+    "answer": "China"
+  },
+  {
+    "question": "What is the main gas found in the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "Which instrument measures atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "answer": "Barometer"
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Pluto"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "options": [
+      "Euro",
+      "Dollar",
+      "Pound",
+      "Frank"
+    ],
+    "answer": "Pound"
+  },
+  {
+    "question": "Which animal can change its color?",
+    "options": [
+      "Frog",
+      "Chameleon",
+      "Octopus",
+      "Butterfly"
+    ],
+    "answer": "Chameleon"
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "options": [
+      "Eagle",
+      "Albatross",
+      "Ostrich",
+      "Emu"
+    ],
+    "answer": "Ostrich"
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "question": "Which country is famous for the Taj Mahal?",
+    "options": [
+      "Pakistan",
+      "Bangladesh",
+      "India",
+      "Sri Lanka"
+    ],
+    "answer": "India"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "options": [
+      "90°C",
+      "100°C",
+      "110°C",
+      "120°C"
+    ],
+    "answer": "100°C"
+  },
+  {
+    "question": "Who is known as the Father of Computers?",
+    "options": [
+      "Alan Turing",
+      "Charles Babbage",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "answer": "Nile River"
+  },
+  {
+    "question": "What is the most abundant metal in the Earth's crust?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Aluminum",
+      "Gold"
+    ],
+    "answer": "Aluminum"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Madrid",
+      "Paris",
+      "Rome"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "question": "How many time zones does Russia have?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "11"
+  },
+  {
+    "question": "Which fruit is known as the 'king of fruits'?",
+    "options": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Orange"
+    ],
+    "answer": "Mango"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Liver",
+      "Heart",
+      "Skin",
+      "Lungs"
+    ],
+    "answer": "Skin"
+  },
+  {
+    "question": "Which country is known as the Land of the Midnight Sun?",
+    "options": [
+      "Sweden",
+      "Norway",
+      "Finland",
+      "Iceland"
+    ],
+    "answer": "Norway"
+  },
+  {
+    "question": "How many elements are in the periodic table?",
+    "options": [
+      "112",
+      "118",
+      "120",
+      "126"
+    ],
+    "answer": "118"
+  },
+  {
+    "question": "What is the speed of light?",
+    "options": [
+      "299,792 km/s",
+      "300,000 km/s",
+      "299,792 m/s",
+      "300,000 m/s"
+    ],
+    "answer": "299,792 km/s"
+  },
+  {
+    "question": "Which animal sleeps standing up?",
+    "options": [
+      "Horse",
+      "Cow",
+      "Elephant",
+      "Giraffe"
+    ],
+    "answer": "Horse"
+  },
+  {
+    "question": "What is the most spoken language in the world?",
+    "options": [
+      "English",
+      "Spanish",
+      "Mandarin Chinese",
+      "Hindi"
+    ],
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "question": "Which year did the Titanic sink?",
+    "options": [
+      "1905",
+      "1912",
+      "1915",
+      "1920"
+    ],
+    "answer": "1912"
+  },
+  {
+    "question": "What is the main component of the Sun?",
+    "options": [
+      "Helium",
+      "Oxygen",
+      "Hydrogen",
+      "Carbon"
+    ],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "How many stripes are on the American flag?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "answer": "13"
+  },
+  {
+    "question": "Which planet is known as the Evening Star?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "question": "What is the largest lake in the world?",
+    "options": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Caspian Sea",
+      "Lake Baikal"
+    ],
+    "answer": "Caspian Sea"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Which is the coldest continent?",
+    "options": [
+      "Europe",
+      "North America",
+      "Antarctica",
+      "Asia"
+    ],
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What is the national animal of Australia?",
+    "options": [
+      "Kangaroo",
+      "Koala",
+      "Emu",
+      "Platypus"
+    ],
+    "answer": "Kangaroo"
+  },
+  {
+    "question": "How many teeth does an adult human have?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "answer": "32"
+  },
+  {
+    "question": "Which country is the largest by area?",
+    "options": [
+      "China",
+      "United States",
+      "Canada",
+      "Russia"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "options": [
+      "Alexandria",
+      "Cairo",
+      "Giza",
+      "Luxor"
+    ],
+    "answer": "Cairo"
+  },
+  {
+    "question": "Which gas is responsible for the greenhouse effect?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Helium"
+    ],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "How many chromosomes do humans have?",
+    "options": [
+      "44",
+      "46",
+      "48",
+      "50"
+    ],
+    "answer": "46"
+  },
+  {
+    "question": "What is the most common blood type?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "answer": "O"
+  },
+  {
+    "question": "Which planet is the hottest?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "question": "Who painted the Starry Night?",
+    "options": [
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Salvador Dali"
+    ],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "question": "What is the largest bone in the human body?",
+    "options": [
+      "Spine",
+      "Femur",
+      "Tibia",
+      "Humerus"
+    ],
+    "answer": "Femur"
+  },
+  {
+    "question": "Which country invented pizza?",
+    "options": [
+      "United States",
+      "France",
+      "Italy",
+      "Greece"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "question": "How many keys are on a standard piano?",
+    "options": [
+      "84",
+      "86",
+      "88",
+      "90"
+    ],
+    "answer": "88"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Munich",
+      "Berlin",
+      "Hamburg",
+      "Frankfurt"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "question": "Which animal has the longest lifespan?",
+    "options": [
+      "Elephant",
+      "Blue Whale",
+      "Galapagos Tortoise",
+      "Bowhead Whale"
+    ],
+    "answer": "Bowhead Whale"
+  },
+  {
+    "question": "What is the most consumed beverage in the world?",
+    "options": [
+      "Coffee",
+      "Tea",
+      "Beer",
+      "Water"
+    ],
+    "answer": "Water"
+  },
+  {
+    "question": "How many planets are in our solar system?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Which country has the most islands?",
+    "options": [
+      "Philippines",
+      "Indonesia",
+      "Sweden",
+      "Canada"
+    ],
+    "answer": "Sweden"
+  },
+  {
+    "question": "What is the fastest bird?",
+    "options": [
+      "Eagle",
+      "Falcon",
+      "Swift",
+      "Ostrich"
+    ],
+    "answer": "Falcon"
+  },
+  {
+    "question": "Who wrote 'The Odyssey'?",
+    "options": [
+      "Plato",
+      "Aristotle",
+      "Homer",
+      "Socrates"
+    ],
+    "answer": "Homer"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "options": [
+      "Mount Vesuvius",
+      "Mauna Loa",
+      "Mount Etna",
+      "Mount Fuji"
+    ],
+    "answer": "Mauna Loa"
+  },
+  {
+    "question": "Which animal is known to laugh?",
+    "options": [
+      "Monkey",
+      "Dolphin",
+      "Hyena",
+      "Parrot"
+    ],
+    "answer": "Hyena"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "options": [
+      "Brasilia",
+      "Lima",
+      "Buenos Aires",
+      "Santiago"
+    ],
+    "answer": "Buenos Aires"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "8"
+  },
+  {
+    "question": "Which country is the smallest by area?",
+    "options": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "What is the most common element in the universe?",
+    "options": [
+      "Helium",
+      "Oxygen",
+      "Hydrogen",
+      "Carbon"
+    ],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "How many strings does a violin have?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "question": "Which planet has the Great Red Spot?",
+    "options": [
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "options": [
+      "Johannesburg",
+      "Cape Town",
+      "Pretoria",
+      "Durban"
+    ],
+    "answer": "Pretoria"
+  },
+  {
+    "question": "Which animal is the national symbol of the United States?",
+    "options": [
+      "Eagle",
+      "Bear",
+      "Bison",
+      "Lion"
+    ],
+    "answer": "Eagle"
+  },
+  {
+    "question": "How many stars are on the Chinese flag?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "question": "What is the most populated city in the world?",
+    "options": [
+      "Delhi",
+      "Shanghai",
+      "Tokyo",
+      "Beijing"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Which country is known as the Emerald Isle?",
+    "options": [
+      "Scotland",
+      "Wales",
+      "Ireland",
+      "Iceland"
+    ],
+    "answer": "Ireland"
+  },
+  {
+    "question": "What is the hardest rock?",
+    "options": [
+      "Granite",
+      "Diamond",
+      "Quartz",
+      "Basalt"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "question": "How many moons does Earth have?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "question": "Which fruit has its seeds on the outside?",
+    "options": [
+      "Apple",
+      "Orange",
+      "Strawberry",
+      "Banana"
+    ],
+    "answer": "Strawberry"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasilia",
+      "Salvador"
+    ],
+    "answer": "Brasilia"
+  },
+  {
+    "question": "Which animal can't jump?",
+    "options": [
+      "Elephant",
+      "Rhino",
+      "Hippo",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the capital city of Nepal?",
+    "options": [
+      "Pokhara",
+      "Biratnagar",
+      "Kathmandu",
+      "Lalitpur"
+    ],
+    "answer": "Kathmandu"
+  },
+  {
+    "question": "Which is the highest mountain in Nepal?",
+    "options": [
+      "Kanchenjunga",
+      "Lhotse",
+      "Mount Everest",
+      "Annapurna"
+    ],
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "What is the official language of Nepal?",
+    "options": [
+      "Maithili",
+      "Nepali",
+      "Bhojpuri",
+      "Newari"
+    ],
+    "answer": "Nepali"
+  },
+  {
+    "question": "In which year(BS) was Nepal declared a federal democratic republic?",
+    "options": [
+      "2006",
+      "2007",
+      "2010",
+      "2015"
+    ],
+    "answer": "2007"
+  },
+  {
+    "question": "Which is the longest river in Nepal?",
+    "options": [
+      "Koshi",
+      "Gandaki",
+      "Karnali",
+      "Mahakali"
+    ],
+    "answer": "Karnali"
+  },
+  {
+    "question": "What is the national flower of Nepal?",
+    "options": [
+      "Marigold",
+      "Rhododendron",
+      "Lotus",
+      "Sunflower"
+    ],
+    "answer": "Rhododendron"
+  },
+  {
+    "question": "Which is the largest national park in Nepal?",
+    "options": [
+      "Chitwan National Park",
+      "Bardiya National Park",
+      "Sagarmatha National Park",
+      "Shey-Phoksundo National Park"
+    ],
+    "answer": "Shey-Phoksundo National Park"
+  },
+  {
+    "question": "What is the traditional currency of Nepal?",
+    "options": [
+      "Rupee",
+      "Taka",
+      "Yuan",
+      "Dollar"
+    ],
+    "answer": "Rupee"
+  },
+  {
+    "question": "Which festival is known as the 'festival of lights' in Nepal?",
+    "options": [
+      "Dashain",
+      "Tihar",
+      "Holi",
+      "Teej"
+    ],
+    "answer": "Tihar"
+  },
+  {
+    "question": "What is the national animal of Nepal?",
+    "options": [
+      "Snow Leopard",
+      "Bengal Tiger",
+      "Cow",
+      "One-horned Rhinoceros"
+    ],
+    "answer": "Cow"
+  },
+  {
+    "question": "Which lake is the deepest in Nepal?",
+    "options": [
+      "Rara Lake",
+      "Phewa Lake",
+      "Begnas Lake",
+      "Shey Phoksundo Lake"
+    ],
+    "answer": "Shey Phoksundo Lake"
+  },
+  {
+    "question": "What is the approximate population of Nepal?",
+    "options": [
+      "25 million",
+      "30 million",
+      "35 million",
+      "40 million"
+    ],
+    "answer": "30 million"
+  },
+  {
+    "question": "What is the national bird of Nepal?",
+    "options": [
+      "Himalayan Monal",
+      "Spiny Babbler",
+      "Crane",
+      "Eagle"
+    ],
+    "answer": "Himalayan Monal"
+  },
+  {
+    "question": "Which UNESCO World Heritage Site is located in Lumbini?",
+    "options": [
+      "Pashupatinath Temple",
+      "Swayambhunath Stupa",
+      "Lumbini - Birthplace of Buddha",
+      "Bhaktapur Durbar Square"
+    ],
+    "answer": "Lumbini - Birthplace of Buddha"
+  },
+  {
+    "question": "What is the traditional New Year of Nepal called?",
+    "options": [
+      "Bikram Sambat",
+      "Nepal Sambat",
+      "Yele Sambat",
+      "Saka Sambat"
+    ],
+    "answer": "Nepal Sambat"
+  },
+  {
+    "question": "Which is the oldest national park in Nepal?",
+    "options": [
+      "Chitwan National Park",
+      "Bardiya National Park",
+      "Langtang National Park",
+      "Sagarmatha National Park"
+    ],
+    "answer": "Chitwan National Park"
+  },
+  {
+    "question": "What is the name of the famous palace where the royal massacre occurred?",
+    "options": [
+      "Narayanhiti Palace",
+      "Hanuman Dhoka Palace",
+      "Singha Durbar",
+      "Kaisar Mahal"
+    ],
+    "answer": "Narayanhiti Palace"
+  },
+  {
+    "question": "Which is the largest lake in Nepal?",
+    "options": [
+      "Phewa Lake",
+      "Rara Lake",
+      "Begnas Lake",
+      "Tilicho Lake"
+    ],
+    "answer": "Rara Lake"
+  },
+  {
+    "question": "What is the name of the famous street in Kathmandu known for tourist shopping?",
+    "options": [
+      "Durbar Marg",
+      "Thamel",
+      "New Road",
+      "Asan"
+    ],
+    "answer": "Thamel"
+  },
+  {
+    "question": "Which is the highest waterfall in Nepal?",
+    "options": [
+      "Hyatung Waterfall",
+      "Jhor Waterfall",
+      "Pachal Waterfall",
+      "Rupse Waterfall"
+    ],
+    "answer": "Hyatung Waterfall"
+  },
+  {
+    "question": "What is the name of the famous butter lamp festival celebrated in Patan?",
+    "options": [
+      "Yomari Punhi",
+      "Matatirtha Aunsi",
+      "Sithi Nakha",
+      "Bala Chaturdashi"
+    ],
+    "answer": "Yomari Punhi"
+  },
+  {
+    "question": "Which is the largest district in Nepal by area?",
+    "options": [
+      "Dolpa",
+      "Mustang",
+      "Darchula",
+      "Humla"
+    ],
+    "answer": "Dolpa"
+  },
+  {
+    "question": "What is the name of the famous temple dedicated to Lord Shiva in Kathmandu?",
+    "options": [
+      "Swayambhunath",
+      "Boudhanath",
+      "Pashupatinath",
+      "Changunarayan"
+    ],
+    "answer": "Pashupatinath"
+  },
+  {
+    "question": "Which is the smallest district in Nepal by area?",
+    "options": [
+      "Bhaktapur",
+      "Lalitpur",
+      "Kathmandu",
+      "Kavrepalanchok"
+    ],
+    "answer": "Bhaktapur"
+  },
+  {
+    "question": "What is the name of the famous medieval city in Kathmandu Valley?",
+    "options": [
+      "Patan",
+      "Bhaktapur",
+      "Kirtipur",
+      "Thimi"
+    ],
+    "answer": "Bhaktapur"
+  },
+  {
+    "question": "Which is the longest highway in Nepal?",
+    "options": [
+      "Mahendra Highway",
+      "Arniko Highway",
+      "Tribhuvan Highway",
+      "Prithvi Highway"
+    ],
+    "answer": "Mahendra Highway"
+  },
+  {
+    "question": "What is the name of the famous festival where sisters put tika on brothers?",
+    "options": [
+      "Tihar",
+      "Dashain",
+      "Bhai Tika",
+      "Teej"
+    ],
+    "answer": "Bhai Tika"
+  },
+  {
+    "question": "Which is the highest altitude airport in Nepal?",
+    "options": [
+      "Tribhuvan Airport",
+      "Pokhara Airport",
+      "Lukla Airport",
+      "Simikot Airport"
+    ],
+    "answer": "Lukla Airport"
+  },
+  {
+    "question": "Which is the largest religious festival in Nepal?",
+    "options": [
+      "Dashain",
+      "Tihar",
+      "Holi",
+      "Maha Shivaratri"
+    ],
+    "answer": "Dashain"
+  },
+  {
+    "question": "What is the name of the famous mountain also known as 'Sagarmatha'?",
+    "options": [
+      "Kanchenjunga",
+      "Mount Everest",
+      "Annapurna",
+      "Dhaulagiri"
+    ],
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "Which is the largest river basin in Nepal?",
+    "options": [
+      "Koshi Basin",
+      "Gandaki Basin",
+      "Karnali Basin",
+      "Mahakali Basin"
+    ],
+    "answer": "Koshi Basin"
+  },
+  {
+    "question": "What is the name of the famous lake in Pokhara?",
+    "options": [
+      "Rara Lake",
+      "Phewa Lake",
+      "Begnas Lake",
+      "Tilicho Lake"
+    ],
+    "answer": "Phewa Lake"
+  },
+  {
+    "question": "What is the name of the famous festival of colors celebrated in Nepal?",
+    "options": [
+      "Tihar",
+      "Dashain",
+      "Holi",
+      "Teej"
+    ],
+    "answer": "Holi"
+  },
+  {
+    "question": "Which is the largest religious site in Nepal?",
+    "options": [
+      "Pashupatinath Temple",
+      "Muktinath Temple",
+      "Boudhanath Stupa",
+      "Swayambhunath Stupa"
+    ],
+    "answer": "Pashupatinath Temple"
+  },
+  {
+    "question": "What is the name of the famous festival dedicated to women?",
+    "options": [
+      "Teej",
+      "Janai Purnima",
+      "Nag Panchami",
+      "Gaura Parva"
+    ],
+    "answer": "Teej"
+  }
+]
