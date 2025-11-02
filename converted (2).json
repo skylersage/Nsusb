@@ -20,12 +20,12 @@
     "answer": "Alexander Fleming"
   },
   {
-    "question": "Who is the first elected prime minister of Nepal?",
+    "question": "Who is the first prime minister of Nepal?",
     "options": [
       "Jung Bahadur Rana",
       "Kp Oli",
       "Sushil Koirala",
-      "BP Koirala"
+      "Bhimsen Thapa"
     ],
     "answer": "BP Koirala"
   },
@@ -647,7 +647,7 @@
       "Caspian Sea",
       "Lake Baikal"
     ],
-    "answer": "Caspian Sea"
+    "answer": "Lake Baikal"
   },
   {
     "question": "Who invented the telephone?",
@@ -1929,16 +1929,7 @@
     ],
     "answer": "8"
   },
-  {
-    "question": "Which country is the smallest by area?",
-    "options": [
-      "Monaco",
-      "Vatican City",
-      "San Marino",
-      "Liechtenstein"
-    ],
-    "answer": "Vatican City"
-  },
+  
   {
     "question": "What is the most common element in the universe?",
     "options": [
